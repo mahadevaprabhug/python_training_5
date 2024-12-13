@@ -1,0 +1,10 @@
+INFO : 2024-12-13 11:15:12,781 : 12_program_on_logging.py : This is INFO
+DEBUG : 2024-12-13 11:15:12,781 : 12_program_on_logging.py : This is DEBUG
+WARNING : 2024-12-13 11:15:12,781 : 12_program_on_logging.py : This is WARNING
+CRITICAL : 2024-12-13 11:15:12,781 : 12_program_on_logging.py : This is CRITICAL
+ERROR : 2024-12-13 11:15:12,781 : 12_program_on_logging.py : This is ERROR
+INFO : 2024-12-13 11:15:12,781 : 12_program_on_logging.py : Log file reading started..
+INFO : 2024-12-13 11:15:12,781 : 12_program_on_logging.py : Entered try block
+INFO : 2024-12-13 11:15:12,781 : 12_program_on_logging.py : Opening file for reading
+ERROR : 2024-12-13 11:15:12,781 : 12_program_on_logging.py : Not able to complete file read operations: Reason is:[Errno 2] No such file or directory: 'D:/sdsafsadsad.txt'
+INFO : 2024-12-13 11:15:12,781 : 12_program_on_logging.py : Stopping program execution here
